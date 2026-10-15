@@ -147,6 +147,12 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+![GitHub Metrics](./github-metrics.svg)
+
+---
+
 <p align="center">
   <i>🌱 Every contribution counts. Keep coding and keep growing!</i>
 </p>

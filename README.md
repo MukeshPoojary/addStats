@@ -133,3 +133,20 @@
 <br/><br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/vishal83107/vishal83107/output/github-snake.svg" alt="Contribution snake" />
+
+
+# 📊 My GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/409ba5/Vishal83107"
+    alt="Vishal83107's GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>🌱 Every contribution counts. Keep coding and keep growing!</i>
+</p>
